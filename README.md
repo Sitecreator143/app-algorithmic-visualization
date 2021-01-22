@@ -1,4 +1,11 @@
-# app-algorithmic-visualization
-Приложение. Для визуализации некоторых алгоритмических задач. HTML + CSS (SCSS) + JavaScript.  
-See app:  
+# app-algorithmic-visualization  
+
+Приложение для визуализации некоторых алгоритмических задач.  
+  
+Используемые технологии:  
+HTML  
+CSS(SCSS)  
+JavaScript  
+  
+Посмотреть работу приложения:  
 https://sitecreator143.github.io/app-algorithmic-visualization/
