@@ -1,4 +1,4 @@
-# app-algorithmic-visualization  
+# App algorithmic visualization  
 
 Приложение для визуализации некоторых алгоритмических задач.  
   
